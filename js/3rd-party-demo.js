@@ -20,7 +20,7 @@ function initFeed3rdPartyCards() {
 
 
 function injectCardIframe(element) {
-	element.html("<iframe style='border:none; width:100%; height:500px;' src='http://eyal.com/pub-simulator/3rd-party-crazy-card.html'></iframe>");
+	element.html("<iframe style='border:none; width:100%; height:500px;' src='https://ebrosh.github.io/pub-simulator/3rd-party-crazy-card.html'></iframe>");
 
 }
 
